@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a C library**
  
- 🌱 I’m currently learning **C**
+ 🌱 I’m currently learning **Cybersecurity, C and Python**
 
 
 
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,html" />
+    <img src="https://skillicons.dev/icons?i=c,html,python" />
 </div>
 
 <br/>
