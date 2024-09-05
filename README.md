@@ -10,9 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a C library**
+ 🔭 I’m currently working on **my undergrad degree**
  
- 🌱 I’m currently learning **Cybersecurity, C and Python**
+ 🌱 I’m currently learning **C and Python**
+
+ 🥋 I want to learn **Cybersecurity and Software Development**
 
 
 
