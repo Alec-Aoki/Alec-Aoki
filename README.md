@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C and Python**
 
- 🥋 I want to learn **Cybersecurity and Software Development**
+ 🥋 I want to learn **Software Development**
 
 
 
