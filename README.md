@@ -13,6 +13,8 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,python" />
 </div>
