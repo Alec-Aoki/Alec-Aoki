@@ -26,10 +26,3 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec-aoki&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=jupyter%20notebook,Makefile" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
