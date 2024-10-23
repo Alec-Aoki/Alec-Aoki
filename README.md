@@ -13,16 +13,9 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,python" />
 </div>
-
-<br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
