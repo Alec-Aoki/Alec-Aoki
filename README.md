@@ -13,11 +13,11 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,python" />
 </div>
+
+<br/>
 
 <div align=center>
   <img width=415 src="https://streak-stats.demolab.com/?user=alec-aoki&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
