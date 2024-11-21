@@ -20,7 +20,7 @@
 <br/>
 
 <div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec-aoki&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=jupyter%20notebook,Makefile,VHDL" alt="top langs" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec-aoki&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=jupyter%20notebook,Makefile" alt="top langs" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alec-aoki&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
