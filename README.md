@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,latex,overleaf" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,latex" />
 </div>
 
 <br/>
