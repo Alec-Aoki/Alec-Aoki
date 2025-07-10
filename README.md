@@ -21,7 +21,7 @@
 <br/>
 
 <div align=center>
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec-aoki&langs_count=100&layout=donut&theme=react&border_radius=10&hide=jupyter%20notebook,Makefile" alt="top langs" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec-aoki&langs_count=100&layout=donut&theme=react&border_radius=10&hide=jupyter%20notebook,Makefile" alt="top langs" />
     <img width=400 src="https://github-readme-stats.vercel.app/api?username=alec-aoki&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
