@@ -14,9 +14,9 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=latex" />
 </div>
